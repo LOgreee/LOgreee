@@ -14,8 +14,8 @@ In 2020, when the studio was created, it is also the start of the development of
 [PRISME Studio website](https://prismestudio.github.io) | [PRISME Studio Twitter](https://twitter.com/PRISMEstudio_) | [PRISME Studio Reddit](https://www.reddit.com/r/PRISMEStudio/) | [PRISME Studio YouTube](https://www.youtube.com/channel/UCO4Ttl-uHtC393F7wQi9OtA) | [PRISME Studio Discord](https://discord.gg/9WRekQQ)
 
 ### My social network
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TM_LOgre)
 
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TM_LOgre)
 
 ### Contact
 On my [twitter account](https://twitter.com/TM_LOgre) or on Discord (L'Ogre#4527).

@@ -2,14 +2,14 @@
 I'm an artist, developper and founder of PRISME Studio. And this is my github profile !
 
 ### I’m currently working on ...
-#Personal
-JuanBot - Discord bot
-Some art...
+#### Personal
+- JuanBot - Discord bot
+- Some art...
 
-#PRISME Studio
-[PRISME Studio website](https://prismestudio.github.io/) - Website
-[In Depth](https://prismestudio.github.io/en/indepth) - Video game
-[#Jeux Gratuits](https://prismestudio.github.io/jeuxgratuits) - Free game advertising service on Discord
+#### PRISME Studio
+- [PRISME Studio website](https://prismestudio.github.io/) - Website
+- [In Depth](https://prismestudio.github.io/en/indepth) - Video game
+- [#Jeux Gratuits](https://prismestudio.github.io/jeuxgratuits) - Free game advertising service on Discord
 
 ### About PRISME Studio
 ![PRISME studio](https://prismestudio.github.io/images/L0001.png)

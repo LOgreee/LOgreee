@@ -9,7 +9,7 @@ I'm an artist, developper and founder of PRISME Studio. And this is my github pr
 #### PRISME Studio
 - [PRISME Studio website](https://prismestudio.github.io/) - Website
 - [In Depth](https://prismestudio.github.io/en/indepth) - Video game
-- [#Jeux Gratuits](https://prismestudio.github.io/jeuxgratuits) - Free game advertising service on Discord
+- [#FreeGames](https://prismestudio.github.io/freegames) - Free game advertising service on Discord
 
 ### About PRISME Studio
 ![PRISME studio](https://prismestudio.github.io/images/L0001.png)
@@ -28,7 +28,7 @@ In 2020, when the studio was created, it is also the start of the development of
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TM_LOgre) 
 
 ### Contact
-On my [twitter account](https://twitter.com/TM_LOgre) or on Discord (L'Ogre#4527).
+If you need help on a project (UI design), feel free to contact me on my [twitter account](https://twitter.com/TM_LOgre) or on Discord (L'Ogre#4527).
 
 <!--
 - 🔭 I’m currently working on ...

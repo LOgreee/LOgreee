@@ -4,6 +4,7 @@ I'm an artist, developper and founder of PRISME Studio. And this is my github pr
 ### I’m currently working on ...
 #### Personal
 - JuanBot - Discord bot
+- Artea project - Open source project to create multiple portfolio (exemple: for an art school) with a CMS. (Website is comming soon...)
 - Some art...
 
 #### PRISME Studio
@@ -12,7 +13,7 @@ I'm an artist, developper and founder of PRISME Studio. And this is my github pr
 - [#FreeGames](https://prismestudio.github.io/freegames) - Free game advertising service on Discord
 
 ### About PRISME Studio
-![PRISME studio](https://prismestudio.github.io/images/L0001.png)
+![PRISME studio](https://prismestudio.github.io/images/L0001.webp)
 
 WE ARE PRISME STUDIO
 
@@ -29,6 +30,7 @@ In 2020, when the studio was created, it is also the start of the development of
 
 ### Contact
 If you need help on a project (UI design), feel free to contact me on my [twitter account](https://twitter.com/TM_LOgre) or on Discord (L'Ogre#4527).
+I will be really happy to help you in your wonderful project! 😄
 
 <!--
 - 🔭 I’m currently working on ...

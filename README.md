@@ -26,7 +26,7 @@ In 2020, when the studio was created, it is also the start of the development of
 
 ### My social network
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TM_LOgre) 
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TM_LOgre) <br/>
 
 ### Contact
 If you need help on a project (UI design), feel free to contact me on my [twitter account](https://twitter.com/TM_LOgre) or on Discord (L'Ogre#4527).

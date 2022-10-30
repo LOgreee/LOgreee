@@ -1,16 +1,20 @@
 ### Hi there 👋
-I'm an artist, developper and founder of PRISME Studio. And this is my github profile !
+I'm an artist, developper, founder of PRISME Studio, but also student at [IIM](https://iim.fr). And this is my github profile !
 
 ### I’m currently working on ...
 #### Personal
-- JuanBot - Discord bot
-- Artea project - Open source project to create multiple portfolio (exemple: for an art school) with a CMS. (Website is comming soon...)
+- My own website - With portfolio, blog and c.v.
+- JuanBot - Discord bot in Python
+- Artea project - Open source project to create multiple portfolio (exemple: for an art school) with a CMS.
 - Some art...
+
+#### Profesional 
+- BGDICE
 
 #### PRISME Studio
 - [PRISME Studio website](https://prismestudio.github.io/) - Website
 - [In Depth](https://prismestudio.github.io/en/indepth) - Video game
-- [#FreeGames](https://prismestudio.github.io/freegames) - Free game advertising service on Discord
+- [#FreeGames](https://prismestudio.github.io/freegames) - Free games advertising service on Discord
 
 ### About PRISME Studio
 ![PRISME studio](https://prismestudio.github.io/images/L0001.webp)

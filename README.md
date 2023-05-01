@@ -12,6 +12,9 @@ I'm an artist, developper, founder of PRISME Studio, but also student at [IIM](h
 
 #### Profesional 
 - BGDICE
+- BGD AVOCATS - Cabinet Bernigard
+- AFD-FININVEST
+- BLACK FEATHER EDITIONS
 
 #### PRISME Studio
 - [PRISME Studio website](https://prismestudio.github.io/) - Website

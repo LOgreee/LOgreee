@@ -13,10 +13,11 @@ I'm an artist, developper, founder of PRISME Studio, but also student at [IIM](h
 #### Profesional 
 - BGDICE
 - BGD AVOCATS - Cabinet Bernigard
-- AFD-FININVEST
+- DOMICI by AFD-FININVEST
 - BLACK FEATHER EDITIONS
-
-#### PRISME Studio
+- Unanounced project 👀
+  
+<!--- #### PRISME Studio
 - [PRISME Studio website](https://prismestudio.github.io/) - Website
 - [In Depth](https://prismestudio.github.io/en/indepth) - Video game
 - [#FreeGames](https://prismestudio.github.io/freegames) - Free games advertising service on Discord
@@ -32,6 +33,7 @@ In 2020, when the studio was created, it is also the start of the development of
 
 
 [PRISME Studio website](https://prismestudio.github.io) | [PRISME Studio Twitter](https://twitter.com/PRISMEstudio_) | [PRISME Studio Reddit](https://www.reddit.com/r/PRISMEStudio/) | [PRISME Studio YouTube](https://www.youtube.com/channel/UCO4Ttl-uHtC393F7wQi9OtA) | [PRISME Studio Discord](https://discord.gg/9WRekQQ)
+-->
 
 ### My social network
 

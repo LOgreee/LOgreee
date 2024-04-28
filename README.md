@@ -11,7 +11,7 @@ I'm an artist, web developper, project manager, but also student at [IIM - Digit
 - Web development
 
 #### Profesional 
-- Unanounced SaaS project and Business project 👀
+- Unannounced SaaS project and Business project 👀
 - BGDICE
 - BGD AVOCATS - Cabinet Bernigard
 - DOMICI by AFD-FININVEST
